@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Bida3443
-- 👀 I’m interested in friendship and business
-- 🌱 I’m currently learning fashion and design and I am also a university student
+- 👋 Hi there, I’m BiDa
+- 👀 I'm a passionate Frontend Web Developer dedicated to creating modern and scalable websites that enhance user experiences.
+- 🌱  I love translating ideas into engaging digital solutions. I have a track record of successful freelance projects and enjoy collaborating with clients to bring their visions to life. Let's build something amazing together!
 - 💞️ I’m looking to collaborate on business
 - 📫 How to reach me contact me via:07086159080, via: alexanderbamise@gmail.com
 
